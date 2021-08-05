@@ -1,1 +1,5 @@
-# Python
+- 👋 Hi, I’m Russell Splain
+- 👀 I’m interested in ... Learning!
+- 🌱 I’m currently learning ... Python, Eve-NG, Linux, Git/Github
+- 💞️ I’m looking to collaborate on ... not too much at present :-)
+- 📫 How to reach me ... splainr@gmail.com
