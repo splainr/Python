@@ -1,16 +1,10 @@
-print("--------------------------------")
-print("Project:     Python learning lab")
-print("Exercise:    Learning Basic Operators")
-print("Russell J. Splain - Aug 6 2021")
-print("--------------------------------")
-
-# Python Lab Aug 6
-#
+﻿# Python Lab Aug 6
 print("Learning Variables and assignments (Aug 6 2021):")
 print("------------------------------------------------")
 x = 5
 y = 10
 y = x
+
 print("x = ", x)
 print("y = ", y)
 print("Reset")
@@ -58,3 +52,41 @@ print("")
 print("Exponent - (x ** y) 5 to the power of 2:")
 print(x ** y)
 print("")
+
+#########
+# Output:
+#########
+
+Learning Variables and assignments (Aug 6 2021):
+------------------------------------------------
+x =  5
+y =  5
+Reset
+
+Assign values (x = 5, y = 2):
+x =  5
+y =  2
+
+Addition (x + y):
+7
+
+Subtraction (x - y):
+3
+
+Multiplication (x * y):
+10
+
+Division (x / y):
+2.5
+
+Floor Division (x // y) (Rounds down to nearest whole number):
+2
+
+Modulus - (x % y) gives the remainder when 5 / 2):
+1
+
+Exponent - (x ** y) 5 to the power of 2:
+25
+
+[Finished in 0.041s]
+
