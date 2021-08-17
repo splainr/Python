@@ -7,10 +7,12 @@ print("----------------------------------------------------------")
 print("")
 # VariableName = initial value
 # Integers:
-UserAge=20
-mobilenumber = 12398724
-print( UserAge , mobilenumber )
+UserAge , CellNumber = 20 , 12398724
+# 
+print( "User Age:", UserAge , "Cell Number:", CellNumber )
+# print( "Cell Number:", CellNumber )
 #
 # Float:
-UserHeight = 1.82, UserWeight = 67.2
-print( UserHeight , UserWeight )
+UserHeight = 1.82
+UserWeight = 67.2
+print( "Uuser Height:", UserHeight , "User Weight:", UserWeight )
