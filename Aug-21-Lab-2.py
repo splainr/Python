@@ -12,8 +12,8 @@ Num = 2 / 2 * 8
 
 # This example shows that print() displays output to the screen, but doesn't actually 'return' anything:
 result = print('Hello')
-print(result)
+# print(result)
 
 mylength = len('Hello')
-print(mylength)
+# print(mylength)
 
