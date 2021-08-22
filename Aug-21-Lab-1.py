@@ -1,9 +1,9 @@
-# ----
+# --------
 # Date:        Aug 21 2021")
 # Project:     Python Lab")
 # Exercise:    python.land Tutorial: Data Type: String")
 # Learner:     Russell J. Splain")
-# ----
+# ---------
 # print("")
 
 Num = 2 / 2 * 8
@@ -46,13 +46,4 @@ String_3 = "Hello World!"
 # 3. runs the len() function on variable String_3
 # 4. prints the string length. (12 characters in Hello World!, including the non-printing blank.)
 # print(String_3 , "-> This string Length is:" , len(String_3))
-
-
-
-
-
-
-
-
-
 
