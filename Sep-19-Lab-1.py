@@ -7,3 +7,18 @@
 # ---------
 print("")
 
+## for letter in ('Hello'):
+##    print(letter)
+
+# The general template for a for-loop in Python is:
+
+# for <variable> in <iterable>:
+#   do something with variable
+
+# Python for-loops and lists
+# --------------------------
+
+mylist = [1, 'a', 'Hello']
+for item in mylist:
+    print(item)
+
